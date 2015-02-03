@@ -1,0 +1,4 @@
+/home/deepak/python_gesture/gestures/circle counterclockwise/label_0cc.txt
+/home/deepak/python_gesture/gestures/letters/Z/label_1_Z.txt
+/home/deepak/python_gesture/gestures/swipe_left/label_2_swipe_left.txt
+/home/deepak/python_gesture/gestures/swipe_right/label_3_swipe_right.txt

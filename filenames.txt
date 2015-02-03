@@ -1,0 +1,3 @@
+test/testx
+test/testy
+test/testz
