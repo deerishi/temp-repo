@@ -1,0 +1,3 @@
+swipe_leftx
+swipe_lefty
+swipe_leftz
